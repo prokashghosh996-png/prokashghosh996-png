@@ -106,7 +106,7 @@ A beginner HTML project showcasing the Indian Cricket Team with player profiles 
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/prokash-ghosh-448541398">
+<a href="www.linkedin.com/in/prokash-ghosh-448541398">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
