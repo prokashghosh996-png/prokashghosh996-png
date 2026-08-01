@@ -103,17 +103,12 @@ https://prokashghosh996-png.github.io/Indian-Cricket-Team/
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prokashghosh996-png&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokashghosh996-png&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prokashghosh996-png&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokashghosh996-png&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=prokashghosh996-png&theme=tokyonight&hide_border=true"/>
-
+  <img width="60%" src="https://streak-stats.demolab.com?user=prokashghosh996-png&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
