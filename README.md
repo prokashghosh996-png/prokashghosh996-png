@@ -1,141 +1,117 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Prokash Ghosh</h1>
 
-# Hi 👋, I'm Prokash Ghosh
+<h3 align="center">
+AI Undergraduate • Aspiring AI Researcher • Software Developer
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Undergraduate;Aspiring+AI+Researcher;Future+Software+Engineer;Machine+Learning+Enthusiast;Research+Internship+Aspirant" />
+<p align="center">
+Building intelligent solutions through mathematics, programming, and continuous learning.
+</p>
 
-</div>
+## 👨‍💻 About Me
 
----
+🎓 B.Tech in Artificial Intelligence
 
-## 🚀 About Me
+🏫 Alipurduar Government Engineering & Management College
 
-🎓 Second-Year B.Tech student in **Artificial Intelligence** at **Alipurduar Government Engineering & Management College**
+📍 Alipurduar, West Bengal, India
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Web Development, and Research**
+🔭 Currently exploring Artificial Intelligence, Machine Learning, Web Development and Automation.
 
-📚 Currently building a strong foundation in **Linear Algebra, Probability, and Statistics**
+📚 Building strong foundations in Linear Algebra, Probability, Statistics and Data Structures.
 
-🌱 Currently learning
+🎯 Interested in AI Research, Research Internships and Software Development.
 
-- HTML
-- CSS
+⚡ Fun Fact: I enjoy solving challenging problems and learning something new every day.
+
+
+## 🌱 Currently Learning
+
+- HTML & CSS
 - JavaScript
 - Python
 - NumPy
 - Pandas
 - Data Structures & Algorithms
 - Git & GitHub
-- VS Code
 - n8n Automation
-
-🎯 Career Goals
-
-- AI Research
-- Research Internship
-- Software Development Internship
-
----
-
-# 💻 Programming Languages
+- 
+## 💻 Tech Stack
 
 <p align="left">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode,linux"/>
 
 </p>
 
----
+## 🚀 Featured Projects
 
-# ⚙️ Technologies & Tools
+### 🇮🇳 Indian Cricket Team Website
 
-<p>
+A beginner HTML project showcasing the Indian Cricket Team with player profiles and modern design.
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-</p>
-
----
-
-# 🚀 Featured Project
-
-## 🇮🇳 Indian Cricket Team Website
-
-A beginner HTML project showcasing the Indian Cricket Team.
-
-🔗 Live Demo
-
+🔗 Live Demo:
 https://prokashghosh996-png.github.io/Indian-Cricket-Team/
 
----
+⭐ More exciting projects coming soon...
 
-# 🏆 Achievements
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prokash-ghosh&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokash-ghosh&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=prokash-ghosh&theme=tokyonight"/>
+
+</p>
+
+## 🏆 Achievements
 
 🏅 GeeksforGeeks Campus Mantri
 
 🎁 Top Performer (Welcome Kit)
 
-🎓 First Year YGPA: **8.79**
+🎓 First Year YGPA: 8.79
 
 🧠 State Level Quizzer
 
----
-
-# 🔬 Research Interests
+## 🔬 Research Interests
 
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
 - Data Science
+- Deep Learning
+  
+## 🌐 Connect with Me
 
----
+[LinkedIn](linkedin.com/in/prokash-ghosh-448541398?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-# 📈 GitHub Stats
+[GeeksforGeeks](https://www.geeksforgeeks.org/profile/pghosh7ioq7?tab=activity)
 
-![](https://github-readme-stats.vercel.app/api?username=prokash-ghosh&show_icons=true&theme=tokyonight)
+[X (Twitter)](https://x.com/i_am_Prokash)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=prokash-ghosh&theme=tokyonight)
+[Instagram](https://www.instagram.com/i_am_prokash_/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prokash-ghosh&layout=compact&theme=tokyonight)
+📧 pghosh760289@gmail.com
 
----
+📧 prokashghosh996@gmail.com
 
-# 🌐 Connect with Me
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prokash-ghosh-448541398)
+<img src="https://komarev.com/ghpvc/?username=prokash-ghosh&style=for-the-badge"/>
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pghosh7ioq7)
+</p>
+<p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_am_prokash_/)
+"Stay curious. Keep building. Keep learning."
 
-[![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/i_am_Prokash)
+⭐ Thanks for visiting my profile!
 
-📧 Email
-
-- pghosh760289@gmail.com
-- prokashghosh996@gmail.com
-
----
-
-<div align="center">
-
-### ⭐ Always learning, always building, one commit at a time.
-
-</div>
+</p>
