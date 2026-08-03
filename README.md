@@ -24,6 +24,10 @@ Building intelligent solutions through mathematics, programming, and continuous 
 
 💡 Passionate about **Artificial Intelligence, Machine Learning, Web Development, and building impactful software solutions.**
 
+💬 Ask me about: AI/ML fundamentals, Python, DSA, or web dev basics
+
+⚡ Fun fact: State-level quizzer and a lifelong learner!
+
 
 🎯 **Career Goal**
 
