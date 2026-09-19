@@ -175,6 +175,10 @@ This project helped me strengthen my understanding of HTML structure, webpage or
 </div>
 
 ---
+## ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
 
