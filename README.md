@@ -189,13 +189,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prokashghosh996-png&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
-
-</div>
 
 ---
 
