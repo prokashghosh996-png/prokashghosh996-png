@@ -178,6 +178,15 @@ This project helped me strengthen my understanding of HTML structure, webpage or
 ## ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 11 September 2026 - To: 18 September 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
