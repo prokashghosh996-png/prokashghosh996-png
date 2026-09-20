@@ -92,18 +92,18 @@ Building practical solutions through programming, problem-solving, and continuou
 
 ### 🌿 LeafLens — Plant Leaf Disease Classification
 
-LeafLens is an educational machine-learning project that predicts plant-and-disease classes from leaf images.
+LeafLens is an educational machine-learning project that predicts plant-and-condition classes from leaf images using a saved TensorFlow/Keras classifier.
 
-A custom convolutional neural network provides the primary classification and confidence score. A locally running vision-language model through Ollama can provide an additional advisory assessment without replacing the classifier’s original result.
+It reports the predicted class, confidence score, top three predictions, and class-derived disease status. Optional Grad-CAM visualizations highlight image regions associated with the prediction.
 
 **Highlights:**
 
-* Classification across 38 PlantVillage classes
-* Custom CNN-based image classification
-* Image preprocessing using OpenCV
-* TensorFlow and Keras model training
-* Optional vision-language assessment using `qwen3-vl:2b`
-* Local inference workflow for uploaded leaf images
+* Classifier-only leaf image prediction
+* Model-compatible image preprocessing
+* Predicted class, confidence, and top three results
+* Healthy or diseased status derived from the predicted label
+* Optional Grad-CAM visualization and PNG export
+* Reproducible dataset preparation and saved-model evaluation
 
 <p>
   <a href="https://github.com/prokashghosh996-png/LeafLens">
@@ -111,7 +111,6 @@ A custom convolutional neural network provides the primary classification and co
   </a>
   <img src="https://img.shields.io/github/stars/prokashghosh996-png/LeafLens?style=for-the-badge&logo=github&label=Stars&color=FACC15" alt="LeafLens stars" />
 </p>
-
 ---
 
 ### 🎓 AttendX — Smart Classroom Attendance Management System
@@ -189,7 +188,11 @@ Other   5 hrs 40 mins         ████████████████�
 
 <!--END_SECTION:waka-->
 
-
+<p>
+  <a href="https://wakatime.com/@e16bd029-00ba-4fbc-8766-acf894aa834f">
+    <img src="https://img.shields.io/badge/WakaTime-View_My_Coding_Activity-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="Prokash's WakaTime profile" />
+  </a>
+</p>
 ---
 
 ## 🏅 Achievements
@@ -237,9 +240,7 @@ Other   5 hrs 40 mins         ████████████████�
 <a href="mailto:pghosh760289@gmail.com">
   <img src="https://img.shields.io/badge/pghosh760289@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Primary email address" />
 </a>
-<a href="mailto:prokashghosh996@gmail.com">
-  <img src="https://img.shields.io/badge/prokashghosh996@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Secondary email address" />
-</a>
+
 
 </div>
 
