@@ -111,6 +111,7 @@ It reports the predicted class, confidence score, top three predictions, and cla
   </a>
   <img src="https://img.shields.io/github/stars/prokashghosh996-png/LeafLens?style=for-the-badge&logo=github&label=Stars&color=FACC15" alt="LeafLens stars" />
 </p>
+
 ---
 
 ### 🎓 AttendX — Smart Classroom Attendance Management System
@@ -193,6 +194,7 @@ Other   5 hrs 40 mins         ████████████████�
     <img src="https://img.shields.io/badge/WakaTime-View_My_Coding_Activity-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="Prokash's WakaTime profile" />
   </a>
 </p>
+
 ---
 
 ## 🏅 Achievements
