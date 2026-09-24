@@ -175,25 +175,7 @@ This project helped me strengthen my understanding of HTML structure, webpage or
 </div>
 
 ---
-## ⏱️ Weekly Coding Activity
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 15 September 2026 - To: 22 September 2026
-
-Total Time: 0 secs
-
-Other   4 hrs 50 mins         █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
-<p>
-  <a href="https://wakatime.com/@e16bd029-00ba-4fbc-8766-acf894aa834f">
-    <img src="https://img.shields.io/badge/WakaTime-View_My_Coding_Activity-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="Prokash's WakaTime profile" />
-  </a>
-</p>
 
 ---
 
